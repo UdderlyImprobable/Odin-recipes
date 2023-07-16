@@ -1,2 +1,3 @@
 # Odin-recipes
-First website testing coding fundamentals 
+
+Basic recipe website testing HTML fundamentals
